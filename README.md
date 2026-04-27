@@ -153,7 +153,6 @@ Always exploring. Always improving. Always building.
 - Voice input via Web Speech API for natural conversation flow
 - Warm-Up → Technical → Behavioral question progression
 - Recruiter dashboard with applicant tracking and transcript review
-- Live deployment at [prepifyinterviewer.netlify.app](https://prepifyinterviewer.netlify.app)
 
 </td>
 <td width="50%">
