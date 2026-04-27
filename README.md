@@ -175,7 +175,7 @@ Always exploring. Always improving. Always building.
 ![Llama](https://img.shields.io/badge/Llama_3.3-0467DF?style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-[**→ View Repository**](https://github.com/ahirjaydeep/prepify) &nbsp;|&nbsp; [**→ Live Demo**](https://prepifyinterviewer.netlify.app)
+[**→ View Repository**](https://github.com/ahirjaydeep/prepify)
 
 ---
 
